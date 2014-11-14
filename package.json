@@ -1,0 +1,12 @@
+{
+  "name": "color-tool",
+  "version": "0.0.1",
+  "description": "Little tool to convert colors.",
+  "repository": "https://github.com/kklimuk/color-tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Klimuk <kklimuk@gmail.com>",
+  "license": "MIT"
+}

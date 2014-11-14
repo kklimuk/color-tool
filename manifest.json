@@ -1,0 +1,15 @@
+{
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "index.js"
+    ]
+  },
+  "description": "Convert colors from one format to another quickly through the omnibox",
+  "manifest_version": 2,
+  "name": "Color Tool",
+  "omnibox": {
+    "keyword": "aaron"
+  },
+  "version": "0.0.1"
+}
